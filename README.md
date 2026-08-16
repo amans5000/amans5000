@@ -6,13 +6,13 @@
 
 ### 👨‍💻 About Me
 
-I am a third-year undergraduate student at **NIT Durgapur**, passionate about building scalable web applications and exploring the math behind machine learning algorithms. Whether it's optimizing socket programming in C++ or fine-tuning ensemble models, I love diving deep into the architecture of systems. 
+I am a Final-year undergraduate student at **NIT Durgapur**, passionate about building scalable web applications and exploring the math behind machine learning algorithms. Whether it's optimizing socket programming in C++ or fine-tuning ensemble models, I love diving deep into the architecture of systems. 
 
 - 🔭 **Currently working on:** Full-stack architectures and advanced machine learning models (decision trees, pruning, and ensemble methods).
 - 🌱 **Currently interning at:** IIRS, Dehradun.
 - 🏆 **Recent Milestones:** Competed in the ICPC Asia Kanpur Preliminary Contest (Team Trinity).
 - 💻 **Dev Environment:** macOS | Vim/VS Code | Terminal power-user.
-- 📫 **How to reach me:** [Insert your LinkedIn/Email link here]
+- 📫 **How to reach me:** [amans5000@gmail.com]
 
 ---
 
