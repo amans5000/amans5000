@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a Final-year undergraduate student at **NIT Durgapur**, passionate about building scalable web applications and exploring the math behind machine learning algorithms. Whether it's optimizing socket programming in C++ or fine-tuning ensemble models, I love diving deep into the architecture of systems. 
 
@@ -12,7 +12,7 @@ I am a Final-year undergraduate student at **NIT Durgapur**, passionate about bu
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@ I am a Final-year undergraduate student at **NIT Durgapur**, passionate about bu
   </a>
 </p>
 
-### 📈 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" />
