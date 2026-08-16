@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/amans5000">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2Z2Q4cXV3dDF6M2h4dDNzZnpqZ3l2cDNqcXUzaHh2cDNqcXUzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalEvTe2A2Q/giphy.gif" alt="Auto-playing AI Dino Game" width="600"/>
   </a>
 </div>
