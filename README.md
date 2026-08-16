@@ -23,14 +23,14 @@ I am a Final-year undergraduate student at **NIT Durgapur**, passionate about bu
 ###  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amans5000&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amans5000&theme=radium&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amans5000&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="60%" />
 </div>
 
 ---
