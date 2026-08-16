@@ -1,47 +1,37 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-</div>
-
----
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aman%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Software+Engineering+Enthusiast;AI%2FML+%26+RAG+Explorer;Competitive+Programmer;Building+Scalable+%26+Intelligent+Systems" />
+
+  <br/>
+
   <a href="https://github.com/amans5000">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2Z2Q4cXV3dDF6M2h4dDNzZnpqZ3l2cDNqcXUzaHh2cDNqcXUzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalEvTe2A2Q/giphy.gif" alt="Auto-playing AI Dino Game" width="600"/>
+    <img src="https://komarev.com/ghpvc/?username=amans5000&label=Profile%20Views&color=2ecc71&style=for-the-badge" />
   </a>
-</div>
 
----
-
-###  About Me
-
-I am a Final-year undergraduate student at **NIT Durgapur**, passionate about building scalable web applications and exploring the math behind machine learning algorithms. Whether it's optimizing socket programming in C++ or fine-tuning ensemble models, I love diving deep into the architecture of systems. 
-
--  **How to reach me:** [amans5000@gmail.com]
-
----
-
-###  Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nodejs,express,mongodb,git,github,macos&perline=6" />
+  <a href="https://github.com/amans5000?tab=followers">
+    <img src="https://img.shields.io/github/followers/amans5000?label=Followers&style=for-the-badge&color=203a43" />
   </a>
-</p>
 
-###  GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amans5000&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amans5000&theme=radium&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amans5000&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="60%" />
 </div>
 
 ---
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</div>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓 Final-year CSE undergraduate @ NIT Durgapur             │
+│                                                             │
+│  💻 Full Stack Developer                                    │
+│  🤖 AI / ML & RAG Enthusiast                                │
+│  🧠 Competitive Programmer                                  │
+│  ⚙️  Interested in System Design & Backend Engineering      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
