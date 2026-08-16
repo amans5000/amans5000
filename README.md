@@ -22,16 +22,32 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 👨‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🎓 Final-year CSE undergraduate @ NIT Durgapur             │
-│                                                             │
-│  💻 Full Stack Developer                                    │
-│  🤖 AI / ML & RAG Enthusiast                                │
-│  🧠 Competitive Programmer                                  │
-│  ⚙️  Interested in System Design & Backend Engineering      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+## 🦖 While You're Here... Play the Dino!
+
+<div align="center">
+
+  <a href="https://chromedino.com/">
+    <img 
+      src="https://chromedino.com/assets/offline-sprite-1x.png"
+      alt="Chrome Dino Game"
+      width="700"
+    />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://chromedino.com/">
+    <img 
+      src="https://img.shields.io/badge/🦖%20PLAY%20DINO-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Play Dino"
+    />
+  </a>
+
+</div>
+
+> 🎮 Click the Dino to play the Chrome-style T-Rex Runner.
+> 
+> ⚡ **Fun fact:** The original game appears in Chrome when you're offline.
+
+---
