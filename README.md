@@ -29,9 +29,9 @@
 
   <a href="https://chromedino.com/">
     <img 
-      src="https://chromedino.com/assets/offline-sprite-1x.png"
-      alt="Chrome Dino Game"
-      width="700"
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h2Z2Q4cXV3dDF6M2h4dDNzZnpqZ3l2cDNqcXUzaHh2cDNqcXUzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalEvTe2A2Q/giphy.gif"
+      alt="Auto-playing Chrome Dino Game"
+      width="600"
     />
   </a>
 
