@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+</div>
 
-<!--
-**amans5000/amans5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a third-year undergraduate student at **NIT Durgapur**, passionate about building scalable web applications and exploring the math behind machine learning algorithms. Whether it's optimizing socket programming in C++ or fine-tuning ensemble models, I love diving deep into the architecture of systems. 
+
+- 🔭 **Currently working on:** Full-stack architectures and advanced machine learning models (decision trees, pruning, and ensemble methods).
+- 🌱 **Currently interning at:** IIRS, Dehradun.
+- 🏆 **Recent Milestones:** Competed in the ICPC Asia Kanpur Preliminary Contest (Team Trinity).
+- 💻 **Dev Environment:** macOS | Vim/VS Code | Terminal power-user.
+- 📫 **How to reach me:** [Insert your LinkedIn/Email link here]
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,react,nodejs,express,mongodb,git,github,macos&perline=6" />
+  </a>
+</p>
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="60%" />
+</div>
+
+---
+<div align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</div>
